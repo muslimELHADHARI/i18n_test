@@ -1,0 +1,66 @@
+{
+  "home": {
+    "title": "Bienvenue dans notre App",
+    "description": "Découvrez des fonctionnalités incroyables et connectez-vous avec des personnes du monde entier. Découvrez la puissance des applications web modernes.",
+    "features": {
+      "feature1": {
+        "title": "Profil Utilisateur",
+        "description": "Gérez vos informations personnelles et personnalisez votre expérience.",
+        "action": "Voir le Profil"
+      },
+      "feature2": {
+        "title": "Connecter et Partager",
+        "description": "Connectez-vous avec des amis et partagez vos pensées avec la communauté.",
+        "action": "Commencer"
+      },
+      "feature3": {
+        "title": "Fonctionnalités Avancées",
+        "description": "Explorez des outils et fonctionnalités puissants conçus pour la productivité.",
+        "action": "En Savoir Plus"
+      }
+    }
+  },
+  "profile": {
+    "title": "Profil Utilisateur",
+    "backToHome": "Retour à l'Accueil",
+    "userInfo": {
+      "title": "Informations Personnelles",
+      "description": "Les détails de votre compte et informations de profil.",
+      "badges": {
+        "developer": "Développeur",
+        "designer": "Designer",
+        "creator": "Créateur"
+      }
+    },
+    "settings": {
+      "title": "Paramètres du Compte",
+      "description": "Gérez vos préférences de compte et paramètres de sécurité.",
+      "actions": {
+        "editProfile": "Modifier le Profil",
+        "changePassword": "Changer le Mot de Passe",
+        "notifications": "Paramètres de Notification"
+      }
+    },
+    "activity": {
+      "title": "Activité Récente",
+      "description": "Vos dernières actions et mises à jour sur la plateforme.",
+      "items": [
+        {
+          "title": "Profil Mis à Jour",
+          "description": "Vous avez mis à jour vos informations de profil",
+          "date": "Il y a 2 jours"
+        },
+        {
+          "title": "Nouvelle Connexion",
+          "description": "Vous vous êtes connecté avec un nouvel utilisateur",
+          "date": "Il y a 1 semaine"
+        },
+        {
+          "title": "Paramètres Modifiés",
+          "description": "Vous avez modifié vos préférences de notification",
+          "date": "Il y a 2 semaines"
+        }
+      ]
+    }
+  }
+}

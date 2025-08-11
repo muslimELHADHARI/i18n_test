@@ -1,0 +1,66 @@
+{
+  "home": {
+    "title": "Welcome to Our App",
+    "description": "Discover amazing features and connect with people around the world. Experience the power of modern web applications.",
+    "features": {
+      "feature1": {
+        "title": "User Profile",
+        "description": "Manage your personal information and customize your experience.",
+        "action": "View Profile"
+      },
+      "feature2": {
+        "title": "Connect & Share",
+        "description": "Connect with friends and share your thoughts with the community.",
+        "action": "Get Started"
+      },
+      "feature3": {
+        "title": "Advanced Features",
+        "description": "Explore powerful tools and features designed for productivity.",
+        "action": "Learn More"
+      }
+    }
+  },
+  "profile": {
+    "title": "User Profile",
+    "backToHome": "Back to Home",
+    "userInfo": {
+      "title": "Personal Information",
+      "description": "Your account details and profile information.",
+      "badges": {
+        "developer": "Developer",
+        "designer": "Designer",
+        "creator": "Creator"
+      }
+    },
+    "settings": {
+      "title": "Account Settings",
+      "description": "Manage your account preferences and security settings.",
+      "actions": {
+        "editProfile": "Edit Profile",
+        "changePassword": "Change Password",
+        "notifications": "Notification Settings"
+      }
+    },
+    "activity": {
+      "title": "Recent Activity",
+      "description": "Your latest actions and updates on the platform.",
+      "items": [
+        {
+          "title": "Profile Updated",
+          "description": "You updated your profile information",
+          "date": "2 days ago"
+        },
+        {
+          "title": "New Connection",
+          "description": "You connected with a new user",
+          "date": "1 week ago"
+        },
+        {
+          "title": "Settings Changed",
+          "description": "You modified your notification preferences",
+          "date": "2 weeks ago"
+        }
+      ]
+    }
+  }
+}
